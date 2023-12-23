@@ -1,6 +1,6 @@
 # Hey there! 🎉 I'm Hushraj Singh.
 
-Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks if I do say so myself. Check them out below! 
+Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks if I do say so myself.
 
 <div align="center">
 
