@@ -5,7 +5,7 @@ Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks i
 <div align="center">
 
   <p align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40"/>
