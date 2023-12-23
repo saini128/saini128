@@ -40,9 +40,8 @@ Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks i
 </div>
 
 ## Staying Connected 🚀
-
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsingh2_be22@thapar.edu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushraj/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hushrajsingh/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushraj/){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hushrajsingh/){:target="_blank"}
 
 ---
