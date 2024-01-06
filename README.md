@@ -8,6 +8,7 @@ Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks i
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"  height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Linux"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS"  height="50"/>
@@ -26,6 +27,9 @@ Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks i
 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud"  height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Google Cloud"  height="50"/>
+  
+  
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"  height="50"/>
 
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy"  height="50"/>
