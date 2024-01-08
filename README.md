@@ -37,8 +37,6 @@ Just your friendly neighbourhood tech enthusiast. I've dabbled in a few stacks i
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask"  height="50"/>
 
-  
-
   </p>
 
 </div>
